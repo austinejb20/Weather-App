@@ -7,8 +7,8 @@
 - Delete weather displays option
 - Responsive design
 - Simple and user-friendly interface
-- Technology Used
+- ## Technology Used
 - HTML
 - CSS JavaScript
-- Author
+- ## Author
 - Austine
