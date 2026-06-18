@@ -10,6 +10,6 @@
 - ## Technology Used
 - HTML
 - CSS 
-_ JavaScript
+- JavaScript
 - ## Author
 - Austine
