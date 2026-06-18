@@ -9,6 +9,7 @@
 - Simple and user-friendly interface
 - ## Technology Used
 - HTML
-- CSS JavaScript
+- CSS 
+_ JavaScript
 - ## Author
 - Austine
